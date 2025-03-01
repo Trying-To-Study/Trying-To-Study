@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Trying-To-Study
 - 👀 I’m interested in coding, tennis, and videogames
-- 🌱 I’m currently learning python
+- 🌱 I’m currently a GIST student at Texas A&M
 - 💞️ I’m looking to collaborate on projects relating machine learning and others for practice
 - 📫 How to reach me twitch.tv/TryingToStudy
 
